@@ -1,11 +1,13 @@
 ### Hi there 👋
+✏️  I majored in Computer Science.
 
-🌱 I'm interested in front-end technology.
+🌱  I'm interested in front-end technology.
 
-🏃‍♂️ I want to grow steadily.
+🏃‍♂️  I want to grow steadily.
 
-✈ Explorer in various fields, such as Web Full Development, Deep Learning, Data Analysis, etc.
+✈  Explorer in various fields, such as Web Full Development, Deep Learning, Data Analysis, etc.
 
+👋 I am studying at SSAFY (Samsung Youth SW Academy).
 
 
 [포트폴리오 사이트 바로가기](https://jun7867.github.io/)
