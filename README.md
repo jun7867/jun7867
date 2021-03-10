@@ -10,8 +10,6 @@
 👋 I am studying at SSAFY (Samsung Youth SW Academy).
 
 
-[포트폴리오 사이트 바로가기](https://jun7867.github.io/)
-
 ### 👩‍💻 Technologies & Tools
 
 <p align="center">
