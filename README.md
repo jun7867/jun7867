@@ -1,8 +1,6 @@
 ### Hi there 👋
 ✏️  I majored in Computer Science.
 
-🌱  I'm interested in front-end technology.
-
 🏃‍♂️  I want to grow steadily.
 
 ✈  Explorer in various fields, such as Web Full Development, Deep Learning, Data Analysis, etc.
