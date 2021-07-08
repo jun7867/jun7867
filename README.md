@@ -7,6 +7,7 @@
 
 👋 I am studying at SSAFY (Samsung Youth SW Academy).
 
+[Notion 포트폴리오 바로가기](https://www.notion.so/951ced02ab6a4be8ba26f2b290d3b68b)
 
 ### 👩‍💻 Technologies & Tools
 
