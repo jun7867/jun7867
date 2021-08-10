@@ -1,11 +1,18 @@
 ### Hi there 👋
+
+🌱  I am a front-end junior developer.
+
 ✏️  I majored in Computer Science.
 
 🏃‍♂️  I want to grow steadily.
 
 ✈  Explorer in various fields, such as Web Full Development, Deep Learning, Data Analysis, etc.
 
-👋 I am studying at SSAFY (Samsung Youth SW Academy).
+👋 Samsung Youth SW Academy (2021.1 ~ 2021.7)
+
+💪 MIDAS (2021.08~ )
+
+
 
 [Notion 포트폴리오 바로가기](https://www.notion.so/951ced02ab6a4be8ba26f2b290d3b68b)
 
