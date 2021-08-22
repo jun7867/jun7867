@@ -10,7 +10,7 @@
 
 👋 Samsung Youth SW Academy (2021.1 ~ 2021.7)
 
-💪 MIDAS (2021.08~ )
+<!-- 💪 MIDAS (2021.08~ ) -->
 
 
 
