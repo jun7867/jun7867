@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋
 
-🌱  I am a front-end junior developer.
+### Handong University, Computer Science (ABEEK - Accreditation Board for Engineering Education of Korea)
+  2014.03 ~ 2021.02 
 
-✏️  I majored in Computer Science.
+### Ini Solution Intern (SW Developer)
+  2020.07 ~ 2020.08
 
-🏃‍♂️  I want to grow steadily.
+### Samsung SW Academy For Youth - 5th 
+  2021.01 ~ 2021.07
 
-✈  Explorer in various fields, such as Web Full Development, Deep Learning, Data Analysis, etc.
-
-👋 Samsung Youth SW Academy (2021.1 ~ 2021.7)
-
-💪 MIDAS (2021.08~ )
+### Midas IT (Midas In - Front-end Dev)
+  2021.08 ~ Now <br />
 
 
 
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jun7867)](https://solved.ac/jun7867)
 
 ### :octocat: GitHub Stats
 
