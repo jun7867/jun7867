@@ -16,6 +16,8 @@
 
 [Notion 포트폴리오 바로가기](https://www.notion.so/951ced02ab6a4be8ba26f2b290d3b68b)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun7867&layout=compact&theme=ayu-mirage&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ### 👩‍💻 Technologies & Tools
 
 <p align="center">
@@ -29,7 +31,7 @@
   <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jun7867)](https://solved.ac/jun7867)
+
 
 ### :octocat: GitHub Stats
 
@@ -38,6 +40,7 @@
 <!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jun7867&hide=c#&theme=radical&langs_count=4"> -->
 </p>
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jun7867)](https://solved.ac/jun7867)
 
 <!--
 **jun7867/jun7867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
