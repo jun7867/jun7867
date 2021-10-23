@@ -40,7 +40,8 @@
 <!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jun7867&hide=c#&theme=radical&langs_count=4"> -->
 </p>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jun7867)](https://solved.ac/jun7867)
+
+<!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jun7867)](https://solved.ac/jun7867) -->
 
 <!--
 **jun7867/jun7867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
