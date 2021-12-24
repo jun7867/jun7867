@@ -1,6 +1,6 @@
 ### 👋
 
-### Handong University, Computer Science (ABEEK - Accreditation Board for Engineering Education of Korea)
+<!-- ### Handong University, Computer Science (ABEEK - Accreditation Board for Engineering Education of Korea)
   2014.03 ~ 2021.02 
 
 ### Ini Solution Intern (SW Developer)
@@ -10,11 +10,11 @@
   2021.01 ~ 2021.07
 
 ### Midas IT (Midas In - Front-end Dev)
-  2021.08 ~ Now <br />
+  2021.08 ~ Now <br /> -->
 
 
 
-[Notion 포트폴리오 바로가기](https://www.notion.so/951ced02ab6a4be8ba26f2b290d3b68b)
+<!-- [Notion 포트폴리오 바로가기](https://www.notion.so/951ced02ab6a4be8ba26f2b290d3b68b) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun7867&layout=compact&theme=ayu-mirage&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
