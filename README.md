@@ -1,5 +1,4 @@
-### 👋
-
+### 👋 FE Dev.
 <!-- ### Handong University, Computer Science (ABEEK - Accreditation Board for Engineering Education of Korea)
   2014.03 ~ 2021.02 
 
@@ -17,7 +16,7 @@
 <!-- [Notion 포트폴리오 바로가기](https://www.notion.so/951ced02ab6a4be8ba26f2b290d3b68b) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun7867&layout=compact&theme=ayu-mirage&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<!-- 
 ### 👩‍💻 Technologies & Tools
 
 <p align="center">
@@ -29,7 +28,7 @@
   <img src="https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
+</p> -->
 
 
 
