@@ -1,4 +1,5 @@
 ### 👋 FE Dev.
+- JS, TS, React, Vue
 <!-- ### Handong University, Computer Science (ABEEK - Accreditation Board for Engineering Education of Korea)
   2014.03 ~ 2021.02 
 
