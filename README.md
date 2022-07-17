@@ -1,7 +1,7 @@
 ### 👋 FE Dev.
 - JS, TS, React, Vue, TypeScript, NextJS
 
-- 요즘 Ionic Capacitor에 관심이 있습니다.
+- Ionic Capacitor
 <!-- ### Handong University, Computer Science (ABEEK - Accreditation Board for Engineering Education of Korea)
   2014.03 ~ 2021.02 
 
